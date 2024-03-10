@@ -38,6 +38,8 @@ app.listen(port, () => {
 let currentIndex = 0;
 const channelId = '';
 
+const statusMessages = ["Made By Gabriel","Made By Gabe];
+
 async function login() {
   try {
     await client.login(process.env.TOKEN);
