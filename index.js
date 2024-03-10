@@ -34,11 +34,7 @@ app.listen(port, () => {
   console.log(`🔗 Listening to RTX: http://localhost:${port}`);
   console.log(`🔗 Powered By RTX`);
 });
-
-
-const statusMessages = ["Made By Gabriel"];
-
-
+                        
 let currentIndex = 0;
 const channelId = '';
 
