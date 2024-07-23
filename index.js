@@ -38,7 +38,7 @@ app.listen(port, () => {
 let currentIndex = 0;
 const channelId = '';
 
-const statusMessages = ["Watching Youtube","listening to Spotify"];
+const statusMessages = ["Watching Youtube","listening to YTB"];
 
 async function login() {
   try {
