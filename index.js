@@ -38,7 +38,7 @@ app.listen(port, () => {
 let currentIndex = 0;
 const channelId = '';
 
-const statusMessages = ["Watching Everyone"];
+const statusMessages = ["Mange..."];
 
 async function login() {
   try {
